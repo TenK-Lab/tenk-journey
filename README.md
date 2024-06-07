@@ -4,6 +4,7 @@ Welcome to our Tenk Journey! 🚀 This place is like our startup's diary, where 
 
 ## Updates
 
+- **07/06/2024:** Hieu bought the domain `tenkhours.org` from Namecheap (`tenkhours.com` was already registered by someone else). As we created an organization to manage the repos, we could not use Vercel to host it for free as we usually did before, lol. We would find an alternative way to host a dummy landing page, but let it be in another day.
 - **05/06/2024:** [First survey (Vietnamese version)](<https://forms.gle/vywc6PyA1geoAtNx8>) created.
 - **04/06/2024:** The minimal version of design system was ready on Figma.
 - **03/06/2024:** Hieu recently chatted with his friend, Anh Tu, about their productivity app idea. Tu expressed skepticism, believing the TenK Hours approach would be sufficient for most people. Similarly, Hieu's conversations with others revealed a lack of initial enthusiasm. Based on this feedback, the team concluded a thorough survey is necessary to gauge market interest. Additionally, we believe developing a Minimum Viable Product and launching it quickly will provide valuable insights into user reception.
