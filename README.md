@@ -5,6 +5,7 @@ Welcome to our Tenk Journey! 🚀 This place is like our startup's diary, where 
 ## Updates
 
 - **05/06/2024:** [First survey (Vietnamese version)](<https://forms.gle/vywc6PyA1geoAtNx8>) created.
+- **04/06/2024:** The minimal version of design system was ready on Figma.
 - **03/06/2024:** Hieu recently chatted with his friend, Anh Tu, about their productivity app idea. Tu expressed skepticism, believing the TenK Hours approach would be sufficient for most people. Similarly, Hieu's conversations with others revealed a lack of initial enthusiasm. Based on this feedback, the team concluded a thorough survey is necessary to gauge market interest. Additionally, we believe developing a Minimum Viable Product and launching it quickly will provide valuable insights into user reception.
 - **02/06/2024:**
   - Nhat Hung joined as a Graduation Project member, he became our first UX/UI designer. The Graduation Project team was filled with 6/6 members.
